@@ -1,8 +1,6 @@
 
 
 /*
-Your Name: Ardin Kraja
-Pace Email: AK55233p@pace.edu
 Write a few sentences about some of the special cases and considerations you had
 when working on the insert and remove methods.
 I needed to consider whether or not the list was empty on insert. I also needed
