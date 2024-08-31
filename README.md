@@ -1,1 +1,1 @@
-Will update soon
+Here is an older CS 241 project that manually creates a doubly linked list, this helped me increase my understanding of how data structures work and was one of my first projects. But with a first project comes bad coding habits so I will be going through this code and cleaning it up. More updates to come
